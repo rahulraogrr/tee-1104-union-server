@@ -12,7 +12,7 @@
 	<artifactId>tee-1104-union-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>tee-1104-union-server</name>
-	<description>Telangana Electricity Employees 1104 Union Backend</description>
+	<description>Telangana Electricity Employees 1104 Union MBaaS</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
